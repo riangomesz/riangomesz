@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riangomesz
 - 👀 I’m interested in Python, UML, JavaScript, Java, Data Analytics, CyberSecurity, Cloud Computing
-- 🌱 I’m currently learning Python Essentials in at the Python Institute, Data Analytics in AWS
+- 🌱 I’m currently learning Python Essentials in the Python Institute, Data Analytics in AWS
 - 💞️ I’m looking to collaborate on DevOps, DevSecOps, Cloud Architecture, Software Developer
 - 📫 How to reach me 
 - GitHub: https://github.com/riangomesz
