@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate on DevOps, DevSecOps, Cloud Architecture, Software Developer in a dynamic company
 - 📫 How to reach me:
 - GitHub: https://github.com/riangomesz
-- Linkedin: https://www.linkedin.com/in/rian-oliveira-a8a461208/
+- Linkedin: https://www.linkedin.com/in/riangomesz
 - email: riangomessport10@gmail.com | riangomes.8911@aluno.una.br
 - phone number: +55 31984417580 
 <!---
